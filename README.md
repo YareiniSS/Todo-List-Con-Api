@@ -1,9 +1,10 @@
-# Todo List API con NestJS
+# Todo List usando API con React
 Este es un proyecto de backend para gestionar una lista de tareas, construido con **React**
 
 ## Tecnologías utilizadas
 * Node.js
 * React
+* Tailwind 
 * Git/GitHub
 
 ## Cómo ejecutar el proyecto
